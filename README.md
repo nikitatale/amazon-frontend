@@ -1,4 +1,4 @@
-#<span style="color:e0609e; font-weight:bold;">Amazon.in Frontend Clone by Nikita</span>
+#<span style="color:pink; font-weight:bold;">Amazon.in Frontend Clone by Nikita</span>
 
 This project is a front-end clone of the **Amazon.in** website, designed with a static, non-responsive layout. The goal of the project is to recreate the look and feel of the Amazon.in homepage for desktop view only. This project is intended for educational purposes and demonstrates core front-end development skills, including HTML, CSS, and JavaScript.
 
